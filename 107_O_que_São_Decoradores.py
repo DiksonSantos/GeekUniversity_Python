@@ -50,8 +50,8 @@ def apresentando():
 #apresentando()
 
 #SEM O @ TERIAMOS QUE USAR DA MANEIRA A BAIXO:
-y = seja_educado_mesmo(apresentando)
-y()
+#y = seja_educado_mesmo(apresentando)
+#y()
 
 
 @seja_Educado
@@ -59,3 +59,5 @@ def quero_dormir():
     print('I Want to Sleep')
 
 #quero_dormir()
+j = quero_dormir()
+
