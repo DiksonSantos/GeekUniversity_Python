@@ -1,4 +1,4 @@
-import  math
+import math
 
 #Retorna o produto de um container Numerico:
 
